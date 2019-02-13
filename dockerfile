@@ -1,3 +1,4 @@
+FROM java:8-jdk-alpine
 FROM tarampampam/node:alpine
 
 RUN mkdir /app
