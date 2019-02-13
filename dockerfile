@@ -5,6 +5,7 @@ RUN mkdir /app
 WORKDIR /app
 
 ADD package.json /app
+RUN npm i 
 RUN npm i -g selenium-standalone
 RUN npm run install-server
 
