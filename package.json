@@ -9,8 +9,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "selenium-server": "^3.141.59"
-  }
+  "license": "ISC"
 }
