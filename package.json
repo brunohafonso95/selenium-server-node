@@ -1,0 +1,16 @@
+{
+  "name": "selenium-server-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install-server": "selenium-standalone install",
+    "start-server": "selenium-standalone start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-server": "^3.141.59"
+  }
+}
